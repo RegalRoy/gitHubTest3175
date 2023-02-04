@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-        //update again
+        //update again REGAL
         //this is an update from github
     }
 }
